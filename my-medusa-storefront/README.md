@@ -4,7 +4,8 @@
   </a>
 </p>
 <h1 align="center">
-  Medusa Gatsby Starter
+  Medusa Kostya
+  <!-- Medusa Gatsby Starter  -->
 </h1>
 <p align="center">
 Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
